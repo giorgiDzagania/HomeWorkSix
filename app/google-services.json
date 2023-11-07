@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "656060790949",
+    "firebase_url": "https://homeworksix-9eda3-default-rtdb.firebaseio.com",
+    "project_id": "homeworksix-9eda3",
+    "storage_bucket": "homeworksix-9eda3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656060790949:android:0a006938f9393d4d2ff54c",
+        "android_client_info": {
+          "package_name": "com.exercise.tbchomeworksix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOHcgIw_6qQ_y3y8XYk2FXuGpZqyFsS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
